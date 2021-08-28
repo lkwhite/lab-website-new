@@ -33,7 +33,7 @@ We are a group of RNA biologists, technology developers, and data analysts on a
 mission to discover fundamental principles of RNA regulation and apply them in
 creative ways to improve human health.
 
-Major efforts in the lab focus on biology of RNA damage and repair using a
+A major effort in the lab focuses on the biology of RNA damage and repair using a
 combination of method development, bioinformatics, genetics, biochemistry, and
 cell biology. Over the past ten years we have developed [new sequencing
 approaches](https://pubmed.ncbi.nlm.nih.gov/26001965/) to identify damaged RNAs
@@ -59,6 +59,6 @@ correct the negative impacts of splice-altering mutations.
 
 Finally, we host the [Informatics
 Fellows](https://github.com/rnabioco/)
-of the RNA Bioscicence Initiative, who develop and apply analytical approaches
+of the RNA Bioscicence Initiative, who develop and apply bioinformatic approaches
 with investigators across our campus to enable widespread deployment of bleeding
 edge RNA analysis technologies.
