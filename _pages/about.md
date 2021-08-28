@@ -27,7 +27,7 @@ MIRA](https://reporter.nih.gov/search/FWmPa7DGuk6CmPb8Ocb5XQ/project-details/101
 expression experiments (funded by an [NIH Transformative
 R01](https://commonfund.nih.gov/tra/recipients))
 - Develop and apply novel RNA therapeutics that modulate gene expression (funded
-by the RNA Bioscience Initiative)
+by the [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi))
 
 We are a group of RNA biologists, technology developers, and data analysts on a
 mission to discover fundamental principles of RNA regulation and apply them in
