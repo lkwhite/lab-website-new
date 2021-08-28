@@ -89,6 +89,9 @@
     {% if.entry.journal contains 'bioRxiv' %}
       <a href="https://www.biorxiv.org/content/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank">bioRxiv</a>
     {% endif %}
+    {% if.entry.github %}
+      <a href="{{ entry.github }}" class="btn btn-sm z-depth-0" role="button" target="_blank">GitHub</a>
+    {% endif %}
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     {% endif %}
