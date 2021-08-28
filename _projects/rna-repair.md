@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RNA damage and repair
-description: How is RNA damage integrated with stress responses
+description: How is RNA damage integrated with stress responses?
 img: /assets/img/rna-repair.png
 importance: 1
 category: research
@@ -13,7 +13,7 @@ RNA repair involves three sequential actvities:
 2. Remodeling of new RNA termini by RNA end modifying enzymes ("healing").
 3. Rejoining of the broken ends by an RNA ligase ("sealing").
 
-<img src="/img/figure/rna-repair.svg" />
+<img src="/assets/img/rna-repair.svg" />
 
 RNA repair catalyzes rejoining of RNA fragments generated during [tRNA splicing](#trna-splicing) and a unique mRNA processing event that regulates the [unfolded protein response](#unfolded-protein-response). There are hints that RNA repair may play a bigger role in gene expression. For example, many proteins of unknown function tend to co-evolve with [RNA repair genes](https://www.ncbi.nlm.nih.gov/pubmed/27536007). And there are suggestions that [damaged ribosomes can be repaired](https://www.ncbi.nlm.nih.gov/pubmed/27789694), presumably to mitigate the cost of building a new ribosome.
 
@@ -21,13 +21,13 @@ We are broadly interested in understanding how cells use RNA repair to remodel t
 
 ## tRNA splicing
 
-<img style="float: right;" src="/img/figure/trna-block.svg">
+<img style="float: right;" src="/assets/img/trna-block.svg">
 
 We exploited a previously developed strategy to bypass the essential function of RNA repair enzymes in budding yeast. Cells that express "pre-spliced" tRNAs are viable in the absence of the tRNA ligase and 2´-phosphotransferase. We are using these cells to understand tRNA processing and translational fidelity.
 
 ## Unfolded protein response
 
-<img style="float: right;" src="/img/figure/upr.svg">
+<img style="float: right;" src="/assets/img/upr.svg">
 
 The unfolded protein reponse (UPR) is a conserved pathway that increases the protein folding capacity of the endoplasmic reticulum during periods of protein folding stress. In budding yeast, the UPR is activated by the transmembrane kinase/endoribonucuelase Ire1, which liberates an intron from the *HAC1* pre-mRNA. Ligation of the exons leads to translation of the Hac1 transcription factor, which moves to the nucleus and upregulates hundreds of stress-reponse genes.
 
