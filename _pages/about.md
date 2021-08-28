@@ -52,13 +52,13 @@ responses](https://pubmed.ncbi.nlm.nih.gov/33843587/) through animal tissue, and
 approaches for quantifying metabolite levels.
 
 The newest effort lab is a collaboration with the neurogenetics clinic
-at Children's Hospital to develop RNA therapies for treatment of pediatric
-neurological diseases. We are developing a pipeline using patient-derved induced 
+at Colorado Children's Hospital to develop RNA therapies for treatment of pediatric
+neurological diseases. We are developing a pipeline using patient-derived induced 
 pluripotent stem cells to identify therapeutic antisense oligonucleotides that
 correct the negative impacts of splice-altering mutations.
 
 Finally, we host the [Informatics
-Fellows](https://medschool.cuanschutz.edu/rbi/funding-opportunities/rbi-informatics-fellows-program)
+Fellows](https://github.com/rnabioco/)
 of the RNA Bioscicence Initiative, who develop and apply analytical approaches
 with investigators across our campus to enable widespread deployment of bleeding
 edge RNA analysis technologies.
