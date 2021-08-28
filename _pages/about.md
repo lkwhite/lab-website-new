@@ -51,7 +51,7 @@ inhibition](https://pubmed.ncbi.nlm.nih.gov/32286626/) in single-cell assays,
 responses](https://pubmed.ncbi.nlm.nih.gov/33843587/) through animal tissue, and
 approaches for quantifying metabolite levels.
 
-The newest effort int the lab is a collaboration with the neurogenetics clinic
+The newest effort in the lab is a collaboration with the neurogenetics clinic
 at Colorado Children's Hospital to develop RNA therapies for treatment of pediatric
 neurological diseases. We are developing a pipeline using patient-derived induced 
 pluripotent stem cells to identify therapeutic antisense oligonucleotides that
