@@ -1,0 +1,49 @@
+
+- name: Rachel Ancar
+  degrees: PhD
+  previously: Graduate Student (MSTP, MOLB)
+  now: Medical Student, University of Colorado School of Medicine 
+  email:
+  website:
+  
+- name: Mandy Richer 
+  degrees: PhD
+  previously: Graduate Student (BSP, MOLB)
+  now: Research Scientist, Hesselberth lab 
+  email:
+  website:
+  
+- name: Patrick Cherry
+  degrees: PhD
+  previously: Graduate Student (MOLB)
+  now: Scientist, Twist, Inc. 
+  email:
+  website: https://www.linkedin.com/in/p-cherry/
+  
+- name: Sally Peach
+  degrees: MD, PhD
+  previously: Graduate Student (MSTP, MOLB)
+  now: Pediatrics Resident, Seattle Children's Hospital 
+  email:
+  website:
+
+- name: Suzi Bryan
+  degrees: PhD
+  previously: Graduate Student (BSP, MOLB)
+  now: Scientist I, Illumina 
+  email:
+  website: https://www.linkedin.com/in/suzibryan/ 
+  
+- name: Shannon Walsh
+  degrees: PhD
+  previously: Postdoctoral Fellow
+  now: Assistant Professor, Michigan State 
+  email:
+  website: https://bmb.natsci.msu.edu/teaching-faculty/shannon-walsh/ 
+  
+- name: Monica Ransom
+  degrees: PhD
+  previously: Postdoctoral Fellow
+  now: Instructor, UC Genomics Core 
+  email:
+  website:

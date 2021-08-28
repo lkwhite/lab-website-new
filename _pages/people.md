@@ -6,6 +6,7 @@ description:
 nav: true
 ---
 
+
 {% for person in site.data.members %}
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->

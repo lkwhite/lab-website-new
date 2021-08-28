@@ -3,11 +3,151 @@
   image: jay.png
   altimage:
   position: >
-    Principal Investigator, Associate Professor of [Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry),
-    Co-Director of the [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi),
-    Associate Director of [Molecular Biology](https://www.cuanschutz.edu/graduate-programs/molecular-biology/home)
+    Associate Professor of [Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry)
   email: jay.hesselberth (at) cuanschutz.edu
-  website:
+  website: https://medschool.cuanschutz.edu/biochemistry/people/primary-faculty/hesselberth-jay
   scholar: EnOmNEYAAAAJ&hl
   twitter: "jayhesselberth"
+  
+- name: Mandy Richer
+  degrees: PhD
+  image: mandy.png
+  altimage:
+  position: Research Scientist
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description:
+ 
+- name: Erika Lasda
+  degrees: PhD
+  image: rna-hex.svg 
+  altimage:
+  position: Research Scientist
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description:
+  
+- name: Maggie Balas 
+  degrees: PhD
+  image: rna-hex.svg 
+  altimage:
+  position: Research Scientist
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description:
+  
+- name: Kent Riemondy 
+  degrees: PhD
+  image: kent.png
+  altimage:
+  position: Instructor
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description: Faculty lead of the [RNA Bioscience Initiative Inforamtics Fellows](https://medschool.cuanschutz.edu/rbi/training-and-education/informatics-fellows-program)
+  
+- name: Rui Fu
+  degrees: PhD
+  image: rui.jpeg
+  altimage:
+  position: Research Associate
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description: RBI Informatics Fellow 
+  
+- name: Ryan Sheridan
+  degrees: PhD
+  image: ryan.png
+  altimage:
+  position: Research Associate
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description: RBI Informatics Fellow 
+  
+- name: Tyler Matheny
+  degrees: PhD
+  image: tyler.png
+  altimage:
+  position: Research Associate
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description: RBI Informatics Fellow 
+  
+- name: Caitlin Winkler
+  degrees: PhD
+  image: caitlin.png
+  altimage:
+  position: Research Associate
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description: RBI Informatics Fellow (joint with Section of Developmental Biology)
+  
+- name: Kristen Wells
+  degrees: PhD
+  image: rna-hex.svg
+  altimage:
+  position: Research Associate
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description: RBI Informatics Fellow (joint with the Barbara Davis Center)
+  
+- name: Laura White
+  degrees: 
+  image: laura.png
+  altimage:
+  position: Graduate Student (MOLB)
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description:
+ 
+- name: Catherine Nicholas
+  degrees: 
+  image: catherine.png
+  altimage:
+  position: Graduate Student (BSP, MOLB), joint with Mia Smith, PhD
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description:
+  
+- name: Aspen Martin
+  degrees: 
+  image: aspen.jpeg
+  altimage:
+  position: Professional Research Assistant 
+  email: 
+  website:
+  scholar: 
+  twitter: 
+  description:
+ 
+- name: Saylor Strugar
+  degrees: 
+  image: rna-hex.svg
+  altimage:
+  position: Professional Research Assistant 
+  email: 
+  website:
+  scholar: 
+  twitter: 
   description:

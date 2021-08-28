@@ -4,75 +4,43 @@ title: RNA damage and repair
 description: How is RNA damage integrated with stress responses
 img: /assets/img/rna-repair.png
 importance: 1
-category: projects
+category: research
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+RNA repair involves three sequential actvities:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+1. Spontaneous or enzyme-catalyzed RNA cleavage ("damage").
+2. Remodeling of new RNA termini by RNA end modifying enzymes ("healing").
+3. Rejoining of the broken ends by an RNA ligase ("sealing").
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<img src="/img/figure/rna-repair.svg" />
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+RNA repair catalyzes rejoining of RNA fragments generated during [tRNA splicing](#trna-splicing) and a unique mRNA processing event that regulates the [unfolded protein response](#unfolded-protein-response). There are hints that RNA repair may play a bigger role in gene expression. For example, many proteins of unknown function tend to co-evolve with [RNA repair genes](https://www.ncbi.nlm.nih.gov/pubmed/27536007). And there are suggestions that [damaged ribosomes can be repaired](https://www.ncbi.nlm.nih.gov/pubmed/27789694), presumably to mitigate the cost of building a new ribosome.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+We are broadly interested in understanding how cells use RNA repair to remodel the transcriptome.
 
+## tRNA splicing
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<img style="float: right;" src="/img/figure/trna-block.svg">
 
+We exploited a previously developed strategy to bypass the essential function of RNA repair enzymes in budding yeast. Cells that express "pre-spliced" tRNAs are viable in the absence of the tRNA ligase and 2´-phosphotransferase. We are using these cells to understand tRNA processing and translational fidelity.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Unfolded protein response
 
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
+<img style="float: right;" src="/img/figure/upr.svg">
+
+The unfolded protein reponse (UPR) is a conserved pathway that increases the protein folding capacity of the endoplasmic reticulum during periods of protein folding stress. In budding yeast, the UPR is activated by the transmembrane kinase/endoribonucuelase Ire1, which liberates an intron from the *HAC1* pre-mRNA. Ligation of the exons leads to translation of the Hac1 transcription factor, which moves to the nucleus and upregulates hundreds of stress-reponse genes.
+
+Using the RNA repair mutants, we uncovered new regulatory points during *HAC1* splicing in the unfolded protein response. 
+
+## New substrates of RNA repair
+
+We are conducting targeted and genome-wide searches for other targets of RNA repair. Such studies could provide new insights into the role of RNA repair in cellular physiology.
+
+## RNA-seq methods to study RNA repair
+
+We previously developed methods to capture the [2´,3´-cyclic phosphate](/publication/2010/Schutz) and [5´-OH](/publication/2015/Peach) products of RNA decay and have used these broadly to study spontaneous and enzyme-catalyzed RNA cleavage.
+
+## Funding
+
+This work is funded by an NIH MIRA grant ([R35 GM119550](https://projectreporter.nih.gov/project_info_description.cfm?aid=9322528&icde=35801054&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=)).
