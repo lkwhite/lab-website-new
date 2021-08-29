@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: logo.png
+  image: hesselberth-lab-hex-logo.png
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,7 +26,7 @@ MIRA](https://reporter.nih.gov/search/FWmPa7DGuk6CmPb8Ocb5XQ/project-details/101
 - Develop new molecular methods that enhance single-cell and spatial gene
 expression experiments (funded by an [NIH Transformative
 R01](https://commonfund.nih.gov/tra/recipients))
-- Develop and apply novel RNA therapeutics that modulate gene expression (funded
+- Develop and apply RNA therapeutics that modulate gene expression (funded
 by the [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi))
 
 We are a group of RNA biologists, technology developers, and data analysts on a
@@ -51,14 +51,16 @@ inhibition](https://pubmed.ncbi.nlm.nih.gov/32286626/) in single-cell assays,
 responses](https://pubmed.ncbi.nlm.nih.gov/33843587/) through animal tissue, and
 approaches for quantifying metabolite levels.
 
-The newest effort in the lab is a collaboration with the neurogenetics clinic
-at Colorado Children's Hospital to develop RNA therapies for treatment of pediatric
-neurological diseases. We are developing a pipeline using patient-derived induced 
-pluripotent stem cells to identify therapeutic antisense oligonucleotides that
-correct the negative impacts of splice-altering mutations.
+The newest effort in the lab is a collaboration with clinicians at
+Colorado Children's Hospital to develop RNA therapies for treatment of
+pediatric neurological diseases. We are developing a pipeline using
+patient-derived cells to identify therapeutic antisense oligonucleotides
+that correct the negative impacts of mutations that alter pre-mRNA
+splicing.
 
 Finally, we host the [Informatics
 Fellows](https://github.com/rnabioco/)
 of the RNA Bioscicence Initiative, who develop and apply bioinformatic approaches
-with investigators across our campus to enable widespread deployment of bleeding
-edge RNA analysis technologies.
+with investigators across our campus to enable widespread deployment of
+new RNA analysis technologies.
+
