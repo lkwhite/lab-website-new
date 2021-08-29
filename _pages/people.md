@@ -11,7 +11,7 @@ nav: true
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px; padding-left: 10px">
-    <img class="img-fluid" style="float: left; width: auto; padding-left: 5px; padding-right: 20px; min-width: 100px; max-height: 185px; padding-bottom: 10px" src="{{ person.image | prepend: '/assets/people_img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
+    <img class="img-fluid" style="float: left; width: auto; padding-left: 5px; padding-right: 20px; min-width: 100px; max-height: 185px; padding-bottom: 10px" src="{{ person.image | prepend: '/assets/img/people/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
     <div>
         <h4>{{person.name}}{% if person.degrees %}, {{person.degrees}} {% endif %}</h4>
         {{person.position | markdownify}}
