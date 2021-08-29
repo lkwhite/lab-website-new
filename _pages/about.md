@@ -37,7 +37,7 @@ A major effort in the lab focuses on the biology of RNA damage and repair using 
 combination of method development, bioinformatics, genetics, biochemistry, and
 cell biology. Over the past ten years we have developed [new sequencing
 approaches](https://pubmed.ncbi.nlm.nih.gov/26001965/) to identify damaged RNAs
-and [new model systems](https://pubmed.ncbi.nlm.nih.gov/30874502/) with which to
+and [new model systems](https://pubmed.ncbi.nlm.nih.gov/29212664/) with which to
 understand the causes and consequences of RNA damage. Our studies have led to
 [new concepts](https://elifesciences.org/articles/42262) in post-transcriptional
 regulation that have broad implications for understanding the role of RNA damage
@@ -60,7 +60,7 @@ splicing.
 
 Finally, we host the [Informatics
 Fellows](https://github.com/rnabioco/)
-of the RNA Bioscicence Initiative, who develop and apply bioinformatic approaches
+of the RNA Bioscience Initiative, who develop and apply bioinformatic approaches
 with investigators across our campus to enable widespread deployment of
 new RNA analysis technologies.
 
