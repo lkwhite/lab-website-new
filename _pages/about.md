@@ -43,13 +43,13 @@ understand the causes and consequences of RNA damage. Our studies have led to
 regulation that have broad implications for understanding the role of RNA damage
 in biology.
 
-A second effort focuses on the development of novel technologies for analysis of
-biochemical phenotypes in using single-cell and spatial gene expression
-approaches. These methods include the [measurement of enzyme activity and
-inhibition](https://pubmed.ncbi.nlm.nih.gov/32286626/) in single-cell assays,
-[tracking of ligands and associated gene expression
-responses](https://pubmed.ncbi.nlm.nih.gov/33843587/) through animal tissue, and
-approaches for quantifying metabolite levels.
+A second effort focuses on the development of novel technologies for
+analysis of additional phenotypes in single-cell and spatial gene
+expression approaches. Our recent advances include the [measurement of
+enzyme activity and inhibition](https://pubmed.ncbi.nlm.nih.gov/32286626/)
+in single-cell assays, [tracking of ligands and associated gene expression
+responses](https://pubmed.ncbi.nlm.nih.gov/33843587/) through animal
+tissue, and approaches for quantifying metabolite levels.
 
 The newest effort in the lab is a collaboration with clinicians at
 Colorado Children's Hospital to develop RNA therapies for treatment of
