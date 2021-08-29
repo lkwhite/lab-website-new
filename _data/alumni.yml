@@ -16,7 +16,7 @@
 - name: Patrick Cherry
   degrees: PhD
   previously: Graduate Student (MOLB)
-  now: Scientist, Twist, Inc. 
+  now: Scientist, Twist Bioscience
   email:
   website: https://www.linkedin.com/in/p-cherry/
   
@@ -25,12 +25,12 @@
   previously: Graduate Student (MSTP, MOLB)
   now: Pediatrics Resident, Seattle Children's Hospital 
   email:
-  website:
+  website: https://www.linkedin.com/in/sallypeach/
 
 - name: Suzi Bryan
   degrees: PhD
   previously: Graduate Student (BSP, MOLB)
-  now: Scientist I, Illumina 
+  now: Scientist, Illumina 
   email:
   website: https://www.linkedin.com/in/suzibryan/ 
   
@@ -46,20 +46,62 @@
   previously: Postdoctoral Fellow
   now: Instructor, UC Genomics Core 
   email:
-  website:
+  website: https://medschool.cuanschutz.edu/colorado-cancer-center/research/shared-resources/genomics
 
 - name: Austin Gillen
   degrees: PhD
   previously: Postdoctoral Fellow
   now: Assistant Research Professor, Hematology, CU Anschutz
   email:
+  website: https://som.ucdenver.edu/Profiles/Faculty/Profile/25627
+
+- name: Stephen Garrey
+  degrees: PhD
+  previously: Postdoctoral Fellow
+  now:
+  email:
+  website:
+
+- name: Sidhant Puntambekar
+  degrees: 
+  previously: RBISIP summer intern
+  now:
+  email:
+  website: https://www.linkedin.com/in/sidhant-puntambekar/
+
+- name: Haven Himmighoefer
+  degrees: 
+  previously: Undergraduate researcher 
+  now:
+  email:
+  website:
+
+- name: Lakotah Hardie
+  degrees: 
+  previously:
+  now:
+  email:
+  website: https://scholar.google.com/citations?user=xjtlmWcAAAAJ&hl=en
+
+- name: Leslie Aranda
+  degrees: 
+  previously: GEMS summer intern
+  now:
+  email:
   website:
 
 - name: Monty Prekeris
   degrees: 
   previously: PRA
-  now: VORTO
+  now:
   email:
   website: https://www.linkedin.com/in/prekeris/
+
+- name: Kerri York
+  degrees: 
+  previously: PRA
+  now:
+  email:
+  website: https://www.linkedin.com/in/kerriyork/
 
 
