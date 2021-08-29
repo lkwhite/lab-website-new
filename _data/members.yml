@@ -91,11 +91,11 @@
   image: caitlin.png
   altimage:
   position: Research Associate
-  email: caitline.winkler (at) cuanschutz.edu
+  email: caitlin.winkler (at) cuanschutz.edu
   website: https://github.com/oligomyeggo
   scholar: 
   twitter: 
-  description: RBI Informatics Fellow (joint with Section of Developmental Biology)
+  description: RBI Informatics Fellow (joint with [Section of Developmental Biology](https://medschool.cuanschutz.edu/pediatrics/sections/developmental-biology/faculty))
   
 - name: Kristen Wells
   degrees: PhD
@@ -106,7 +106,7 @@
   website: https://github.com/kwells4
   scholar: 
   twitter: 
-  description: RBI Informatics Fellow (joint with the Barbara Davis Center)
+  description: RBI Informatics Fellow (joint with the [Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes))
   
 - name: Laura White
   degrees: 
