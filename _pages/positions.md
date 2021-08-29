@@ -17,13 +17,13 @@ See those sites for details.
 
 ### Graduate students
 
-We are accepting new graduate students for projects focused on RNA
+We welcome new graduate students interested in projects focused on RNA
 biology, technology development, RNA therapeutics, and computational
-biology.
+biology. Please contact Jay to discuss opportunities.
 
-Projects in the lab often combine "wet" and "dry" skill sets. While you
-don't need to be skilled in both starting out, you can bet you'll be
-skilled in both when you leave!
+We value perspectives of people from all backgrounds and are committed to
+providing a equitable and inclusive training environtment free of bias and
+discrimination.
 
 ### Postdoctoral fellows
 
